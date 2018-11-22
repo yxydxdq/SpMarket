@@ -1,21 +1,704 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37a618bf-de3d-4d02-bd09-af9e8adf6eee" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/assets/iconfont/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/assets/iconfont/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/assets/iconfont/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/assets/iconfont/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/css/amazeui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/css/ch.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/css/check.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/fonts/_notes/dwsync.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/1-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/1-icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/1-icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/1-icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/1-icon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/1-icon5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/1-icon6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/1-icon7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/2-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/2icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/2icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/2icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/3icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/3icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/3icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/IMG_3574_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/banner1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/bj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/bm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/brand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/candar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/care.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/city.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/contactqq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/contacttele.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/dui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/ewm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/game.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/gift.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/gqhb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/grayxin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/guoqi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/gz1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/gz2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/gz3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/herat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/hotline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/icon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/icon5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/icon6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/icon7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/icon8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/infortx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/j_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/j_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/j_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/jp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/ka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/lz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/m_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/m_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/m_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/m_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/m_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/m_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/m_08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/m_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/memtx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/moneysafty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/moneytele.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/my.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/order-bot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/order-my.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/order-pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/order-top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/order.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/ph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/qd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/qiandao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/qqlogin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/redherat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/redxin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/s1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/s3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/s4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/s5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/s6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/sao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/shop1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/shop2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/shop3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/shop4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/shopcart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/sign-up-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/sinalog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/skongjian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/sqq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/ssina.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/step.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/sweixin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/sweixinfriend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/tele.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/test1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/test10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/test11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/test2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/test21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/test3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/test4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/test5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/test6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/test7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/test8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/test9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/tit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/tj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/ts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/tt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/tx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/tx1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/update.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/volume.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/wei.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/weichong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/wl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/wxlogin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/ye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/yhq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/yzm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/images/zhi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/js/amazeui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/js/area.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/js/date.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/js/iscroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/js/jquery-1.10.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/js/jquery.mobile-1.4.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/js/popup.mini.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/js/time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/111" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/address.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/allorder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/application.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/applicationjob.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/boundphone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/city.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/collect-edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/collect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/forgetpassword.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/gladdress.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/infor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/integral.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/integralexchange.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/integralrecords.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/job.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/member.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/message.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/messdetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/messdetailactive.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/money.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/mymessage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/myrecommend.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/newsdetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/orderdetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/pay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/payment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/recharge.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/recommend.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/records.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/reg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/release.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/saftystep.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/shopcart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/speed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/step.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/tidings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/tureorder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/village.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/ygq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supermarket/source/yhq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_cart/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_cart/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_cart/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_cart/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_cart/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_cart/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_cart/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_cart/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_goods/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_goods/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_goods/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_goods/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_goods/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_goods/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_goods/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_goods/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_order/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_order/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_order/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_order/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_order/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_order/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_order/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_order/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_user/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_user/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_user/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_user/helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_user/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_user/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_user/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_user/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/sp_user/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/base_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlclient-1.3.13-cp36-cp36m-win32.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/amazeui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/ch.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/check.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/_notes/dwsync.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/1-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/1-icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/1-icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/1-icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/1-icon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/1-icon5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/1-icon6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/1-icon7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/2-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/2icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/2icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/2icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/3icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/3icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/3icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/IMG_3574_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/banner1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/bj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/bm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/brand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/candar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/care.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/city.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/contactqq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/contacttele.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/dui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ewm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/game.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/gift.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/gqhb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/grayxin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/guoqi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/gz1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/gz2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/gz3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/herat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/hotline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/icon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/icon5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/icon6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/icon7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/icon8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/infortx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/j_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/j_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/j_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/jp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/lz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/m_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/m_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/m_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/m_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/m_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/m_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/m_08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/m_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/memtx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/moneysafty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/moneytele.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/my.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/order-bot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/order-my.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/order-pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/order-top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/order.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/qd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/qiandao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/qqlogin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/redherat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/redxin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/s1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/s3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/s4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/s5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/s6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/sao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/shop1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/shop2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/shop3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/shop4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/shopcart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/sign-up-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/sinalog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/skongjian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/sqq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ssina.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/step.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/sweixin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/sweixinfriend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tele.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/test1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/test10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/test11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/test2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/test21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/test3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/test4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/test5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/test6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/test7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/test8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/test9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tx1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/update.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/volume.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/wei.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/weichong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/wl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/wxlogin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yhq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/yzm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/zhi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/amazeui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/area.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/date.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/iscroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery-1.10.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.mobile-1.4.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/popup.mini.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/public/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/sp_user/forgetpassword.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/sp_user/infor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/sp_user/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/sp_user/member.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/sp_user/reg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SpMarket.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SpMarket.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpMarket/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/SpMarket/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpMarket/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/SpMarket/urls.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SpMarket$Test__.coverage" NAME="Test:  Coverage Results" MODIFIED="1542786498479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+        <item name="django_migrations: table" type="ffe0bd85:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+        <item name="sqlite_master: table" type="ffe0bd85:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="identifier.sqlite" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="helper.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/sp_user/helper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/sp_user/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-338">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base_model.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/base_model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/sp_user/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="806">
+              <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/sp_user/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="633">
+              <caret line="102" selection-start-line="102" selection-end-line="102" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sp_user.helper</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SpMarket/urls.py" />
+        <option value="$PROJECT_DIR$/templates/public/base.html" />
+        <option value="$PROJECT_DIR$/templates/sp_user/forgetpassword.html" />
+        <option value="$PROJECT_DIR$/templates/sp_user/infor.html" />
+        <option value="$PROJECT_DIR$/templates/sp_user/member.html" />
+        <option value="$PROJECT_DIR$/db/base_model.py" />
+        <option value="$USER_HOME$/Desktop/django项目/重要的文件/代码记录/supermarket第一天/SpMarket/apps/sp_user/models.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/b988a4cf-1e89-4553-bbf4-4c3e211f8f33/console.sql" />
+        <option value="$PROJECT_DIR$/db/__init__.py" />
+        <option value="$PROJECT_DIR$/templates/sp_user/login.html" />
+        <option value="$PROJECT_DIR$/templates/sp_user/reg.html" />
+        <option value="$PROJECT_DIR$/SpMarket/settings.py" />
+        <option value="$PROJECT_DIR$/apps/sp_user/views.py" />
+        <option value="$PROJECT_DIR$/apps/sp_user/urls.py" />
+        <option value="$PROJECT_DIR$/apps/sp_user/models.py" />
+        <option value="$PROJECT_DIR$/apps/sp_user/helps.py" />
+        <option value="$PROJECT_DIR$/apps/sp_user/forms.py" />
+        <option value="$PROJECT_DIR$/apps/sp_user/helper.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="45" />
-    <option name="y" value="5" />
-    <option name="width" value="1164" />
-    <option name="height" value="521" />
+    <option name="x" value="5" />
+    <option name="y" value="12" />
+    <option name="width" value="1378" />
+    <option name="height" value="639" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpMarket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpMarket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpMarket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpMarket" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpMarket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpMarket" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="sp_user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpMarket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpMarket" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpMarket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpMarket" type="462c0819:PsiDirectoryNode" />
+              <item name="SpMarket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpMarket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpMarket" type="462c0819:PsiDirectoryNode" />
+              <item name="Supermarket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpMarket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpMarket" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpMarket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpMarket" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpMarket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpMarket" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="sp_user" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Sqlite (Xerial)" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SpMarket - 副本" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
-    <configuration name="SpMarket" type="Python.DjangoServer" factoryName="Django server">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\SpMarket\SpMarket" />
+      <recent name="D:\project\SpMarket\SpMarket\templates\sp_user" />
+      <recent name="D:\project\SpMarket\SpMarket\static" />
+      <recent name="D:\project\SpMarket\SpMarket\apps\sp_cart" />
+      <recent name="D:\project\SpMarket\SpMarket\apps\sp_goods" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\SpMarket\SpMarket\Supermarket\source" />
+      <recent name="D:\project\SpMarket\SpMarket\apps" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.SpMarket">
+    <configuration name="Test: " type="DjangoTestsConfigurationType" factoryName="Django tests" temporary="true">
       <module name="SpMarket" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -23,6 +706,26 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+    </configuration>
+    <configuration name="SpMarket" type="Python.DjangoServer" factoryName="Django server" singleton="true">
+      <module name="SpMarket" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="SpMarket.settings" />
+      </envs>
+      <option name="SDK_HOME" value="E:\virtual\django\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -37,5 +740,432 @@
       <option name="useCustomRunCommand" value="false" />
       <option name="customRunCommand" value="" />
     </configuration>
+    <list>
+      <item itemvalue="Django server.SpMarket" />
+      <item itemvalue="Django tests.Test: " />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Django tests.Test: " />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37a618bf-de3d-4d02-bd09-af9e8adf6eee" name="Default" comment="" />
+      <created>1542696911601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542696911601</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test__ - 2018.11.21 at 14h 41m 40s.xml">
+      <configuration name="Test: " configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__ - 2018.11.21 at 14h 43m 06s.xml">
+      <configuration name="Test: " configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__ - 2018.11.21 at 15h 28m 30s.xml">
+      <configuration name="Test: " configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__ - 2018.11.21 at 15h 28m 41s.xml">
+      <configuration name="Test: " configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__ - 2018.11.21 at 15h 48m 05s.xml">
+      <configuration name="Test: " configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__ - 2018.11.21 at 15h 48m 21s.xml">
+      <configuration name="Test: " configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__ - 2018.11.21 at 15h 49m 09s.xml">
+      <configuration name="Test: " configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.20826447" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.596" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.953719" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16565809" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="manage.py@SpMarket" order="7" weight="0.6165289" />
+      <window_info anchor="right" id="Database" order="3" weight="0.31240544" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37355372" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" weight="0.56694216" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16641453" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="manage.py@SpMarket" order="10" weight="0.507438" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.07272727" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" weight="0.31240544" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.20826447" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.37355372" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.56694216" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Supermarket/js/date.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supermarket/js/area.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/sp_order/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/sp_goods/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/sp_cart/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/apps/sp_user/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supermarket/source/reg.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/fonts/_notes/dwsync.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/area.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/ch.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supermarket/source/infor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-936" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supermarket/source/password.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supermarket/source/forgetpassword.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-312" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/django项目/重要的文件/Supermarket/reg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-702" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supermarket/source/member.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="168" selection-start-line="168" selection-end-line="205" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/sp_user/forgetpassword.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/sp_user/member.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="96" selection-start-line="12" selection-start-column="96" selection-end-line="12" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/django项目/重要的文件/代码记录/supermarket第一天/SpMarket/db/base_model.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/django项目/重要的文件/代码记录/supermarket第一天/SpMarket/apps/sp_user/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="28" lean-forward="true" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/sp_user/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/sp_user/infor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1118">
+          <caret line="63" selection-start-line="63" selection-start-column="2" selection-end-line="64" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b988a4cf-1e89-4553-bbf4-4c3e211f8f33/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/django项目/重要的文件/代码记录/supermarket第一天/SpMarket/SpMarket/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asd/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpMarket/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/virtual/django/Lib/site-packages/django/db/backends/sqlite3/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="327" selection-start-line="327" selection-end-line="327" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://91cc818c-0bd9-44d1-a6c7-4d32d9828f40/schema/main/table/sqlite_sequence">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/2018-11-20-Django超市项目-用户模块/code/supermarket/SpMarket/apps/sp_user/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/virtual/django/Lib/site-packages/django/views/generic/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-590">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/public/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1118">
+          <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/sp_user/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpMarket/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="e#642#683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://91cc818c-0bd9-44d1-a6c7-4d32d9828f40/schema/main/table/django_session">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/sp_user/reg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding>
+            <element signature="e#154#175#0#HTML" expanded="true" />
+            <element signature="e#713#740#0#HTML" expanded="true" />
+            <element signature="e#1052#1058#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/sp_user/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/sp_user/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="5" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#form#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/django项目视频/2DAY/supermarket11201/SpMarket/apps/sp_user/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/django项目视频/2DAY/supermarket11201/SpMarket/apps/sp_user/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/2018-11-20-Django超市项目-用户模块/code/supermarket/SpMarket/apps/sp_user/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://91cc818c-0bd9-44d1-a6c7-4d32d9828f40/schema/main/table/sp_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/2018-11-20-Django超市项目-用户模块/code/supermarket/SpMarket/apps/sp_user/helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="19" lean-forward="true" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/2018-11-20-Django超市项目-用户模块/code/supermarket/SpMarket/apps/sp_user/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="24" column="16" selection-end-line="101" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/sp_user/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/sp_user/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/sp_user/helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/base_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/sp_user/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-338">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpMarket/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1864">
+          <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+          <folding>
+            <element signature="e#310#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/sp_user/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
